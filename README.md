@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Juamez
-- 🌱 I’m currently learning web development
+<h1>👋 Hi, I’m @Juamez </h1>
+
+- 🌱 I’m currently learning Javascript
+
+
 - 📫 You can reach me on Twitter @Juamez_
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
 
