@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @Juamez </h1>
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m a web development student currently learning Javascript
 
 
 - 📫 You can reach me on Twitter @Juamez_
