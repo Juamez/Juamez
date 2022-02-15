@@ -1,10 +1,14 @@
-<h1>👋 Hi, I’m @Juamez </h1>
+👋 ##Hi, I’m @Juamez 
 
-- 🌱 I’m a web development student currently learning Javascript
+- 🌱 I’m a self-taught Frontend Developer
 
+- :nerd_face: Currently Learning React
 
 - 📫 You can reach me on Twitter @Juamez_
 
+Languages and Tools: 
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
