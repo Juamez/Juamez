@@ -1,4 +1,4 @@
-👋 ##Hi, I’m @Juamez 
+👋 ## Hi, I’m @Juamez 
 
 - 🌱 I’m a self-taught Frontend Developer
 
@@ -6,10 +6,14 @@
 
 - 📫 You can reach me on Twitter @Juamez_
 
-Languages and Tools: 
+**Languages and Tools** 
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
 
