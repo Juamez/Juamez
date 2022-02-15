@@ -8,7 +8,7 @@
 
 Languages and Tools: 
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
