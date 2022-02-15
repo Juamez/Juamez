@@ -1,4 +1,4 @@
-👋 ## Hi, I’m @Juamez 
+👋 <h3> Hi, I’m @Juamez </h3>
 
 - 🌱 I’m a self-taught Frontend Developer
 
