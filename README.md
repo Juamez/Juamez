@@ -1,6 +1,6 @@
-👋 <h3> Hi, I’m @Juamez </h3>
+<h3> Hi, I’m @Juamez 👋</h3>
 
-- 🌱 I’m a self-taught Frontend Developer
+- 🌱 I’m a self-taught Frontend Developer with skills in JavaScript, CSS, HTML, eager to learn new technologies and seeking to become a fullstack developer.
 
 - :nerd_face: Currently Learning React
 
