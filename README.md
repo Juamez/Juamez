@@ -1,14 +1,16 @@
 <h3> Hi, I’m @Juamez 👋</h3>
 
-- 🌱 I’m a self-taught Frontend Developer with skills in JavaScript, CSS, HTML, eager to learn new technologies and seeking to become a fullstack developer.
+- 🌱 I’m a self-taught Frontend and Blockchain Developer building web aplications in JavaScript, CSS, HTML and smart contracts with Solidity. Interested working on Dapps and web related projects.
 
-- :nerd_face: Currently learning  about Blockchain and Ethereum
+- :nerd_face: Currently learning about
+  - <img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ETHEREUM&labelColor=black" />
+  - <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=NODE.Js&labelColor=black" />
+  - <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&labelColor=black" />
 
 - 📫 You can reach me on Twitter @Juamez_
 
 **Languages and Tools**
 
-<div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&labelColor=black" />
   <img src="https://img.shields.io/badge/CSS-2465f1?style=for-the-badge&logo=CSS3&logoColor=2465f1&labelColor=black" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&labelColor=black" />
@@ -20,8 +22,9 @@
   <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=SOLIDITY&labelColor=black" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&labelColor=black" />
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=WEBPACK&labelColor=black" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=NODE.Js&labelColor=black" />
-</div>
+  
+
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
 
