@@ -1,6 +1,6 @@
 <h3> Hi, I’m @Juamez 👋</h3>
 
-- 🌱 I’m a self-taught Frontend and Blockchain Developer building web aplications in JavaScript, CSS, HTML and smart contracts with Solidity. Interested working on Dapps and web related projects. :)
+- 🌱 I’m a self-taught Frontend and Blockchain Developer building web aplications in JavaScript, CSS, HTML and smart contracts with Solidity. Interested working on Dapps and web related projects. :D
 
 - :nerd_face: Currently learning about
   - <img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ETHEREUM&labelColor=black" />
