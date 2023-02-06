@@ -11,6 +11,7 @@
 
 **Languages and Tools**
 
+<div style='display: flex; flex-wrap: wrap'>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&labelColor=black" />
   <img src="https://img.shields.io/badge/CSS-2465f1?style=for-the-badge&logo=CSS3&logoColor=2465f1&labelColor=black" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=Sass&labelColor=black" />
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=SOLIDITY&labelColor=black" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&labelColor=black" />
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=WEBPACK&labelColor=black" />
-  
+</div>
 
 <br/>
 
