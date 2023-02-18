@@ -27,7 +27,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca) 
 
 <!---
 Juamez/Juamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
