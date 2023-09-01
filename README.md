@@ -1,9 +1,8 @@
 <h3> Hi, I’m @Juamez 👋</h3>
 
-- 🌱 I’m a self-taught Frontend and Blockchain Developer building web aplications in JavaScript, CSS, HTML and smart contracts with Solidity. Interested working on Dapps and web related projects. :D
+- 🌱 I’m a self-taught Frontend and Blockchain Developer who loves to create things
 
 - :nerd_face: Currently learning about
-  - <img src="https://img.shields.io/badge/ETHEREUM-3C3C3D?style=for-the-badge&logo=ETHEREUM&labelColor=black" />
   - <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=NODE.Js&labelColor=black" />
   - <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&labelColor=black" />
 
@@ -27,7 +26,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juamez&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juamez&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Juamez/Juamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
