@@ -26,7 +26,7 @@
 
 <br/>
 
-[![Top Langs](https://stats-juamez.vercel.app//api/top-langs/?username=Juamez&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-xi-seven.vercel.app//api/top-langs/?username=Juamez&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Juamez/Juamez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
